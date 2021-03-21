@@ -2,7 +2,7 @@
 
 [参考博客](https://www.bookstack.cn/read/simple_os_book/zh-preface-io.md)
 
-[toc]
+[TOC]
 
 # 1 操作系统简介
 
